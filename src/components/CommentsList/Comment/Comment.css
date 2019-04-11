@@ -1,0 +1,21 @@
+.Comment {
+    border: 1px solid black;
+    width: 80%;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    padding: 5px;
+    margin: 10px auto;
+}
+
+.Comment > div {
+    padding: 7px;
+}
+
+.Comment .Up {
+    color: #00ff00;
+    padding: 0 4px 0 10px;
+}
+
+.Comment .Down {
+    color: #ff0000;
+    padding: 0 0px 0 10px;
+}
